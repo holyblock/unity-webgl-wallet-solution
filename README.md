@@ -1,7 +1,6 @@
+# Unity WebGL Wallet Solution
 
-# Arbitrage Trading Bot
-
-This project is an arbitrage trading bot designed to exploit price differences across various cryptocurrency exchanges.
+This repository provides a solution to integrate MetaMask with Unity WebGL applications, enabling users to connect their MetaMask wallet directly to your Unity game or app.
 
 <p align="center">
     <img src="connect-with-unity.gif" alt="Arbitrage Bot Demo">
